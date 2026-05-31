@@ -45,7 +45,7 @@ Open [http://localhost:3000](http://localhost:3000) and sign in with magic link.
 
 1. Open the app in Safari.
 2. Tap **Share** → **Add to Home Screen**.
-3. Launch from the home screen for standalone, full-screen mode.
+3. Launch from the home screen for standalone, full-screen mode
 
 ## Features
 
